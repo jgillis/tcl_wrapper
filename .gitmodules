@@ -1,0 +1,6 @@
+[submodule "hptt"]
+	path = hptt
+	url = https://github.com/jgillis/hptt.git
+[submodule "tcl"]
+	path = tcl
+	url = https://github.com/jgillis/tcl.git
